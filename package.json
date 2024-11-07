@@ -1,0 +1,14 @@
+{
+  "name": "gitman",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@octokit/openapi-types": "^22.2.0"
+  }
+}
